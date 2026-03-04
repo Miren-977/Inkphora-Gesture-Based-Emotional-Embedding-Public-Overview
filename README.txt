@@ -31,7 +31,7 @@ API-oriented modular design
 Public Documentation
 
 See:
-docs/Inkphora_Gesture_Embedding_Public_Disclosure.pdf
+docs/Inkphora_Gesture_Embedding_Public_Disclosure.pdf (or ".md")
 
 This document establishes the conceptual priority and authorship of the method.
 
