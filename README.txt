@@ -6,15 +6,12 @@ The system maps raw gesture features to a Valence–Arousal emotional embedding,
 
 This repository contains:
 
-public documentation (PDF)
+public disclosure documentation (PDF)
 
-conceptual architecture
+describing the conceptual architecture of the system.
 
-sample diagrams
+Implementations details, feature extraction pipelines, and code remain private for security and research reasons.
 
-lightweight demo references
-
-Code implementations remain private for security and research reasons.
 
 Core Concepts
 
@@ -28,6 +25,7 @@ Creative output (text, music, visual adaptation)
 
 API-oriented modular design
 
+
 Public Documentation
 
 See:
@@ -35,9 +33,10 @@ docs/Inkphora_Gesture_Embedding_Public_Disclosure.pdf (or ".md")
 
 This document establishes the conceptual priority and authorship of the method.
 
+
 Demo
 
-A minimal public demo is hosted on Hugging Face Spaces under the same author identity.
+A minimal public demo PoC is hosted on Hugging Face Spaces under the same author identity.
 
 Author
 Maria Irene Marchetti
